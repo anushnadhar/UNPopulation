@@ -16,6 +16,12 @@ Using relevant variables from the United Nations dataset, created the following 
 
 -**Connected Scatterplot:** Visualizing relationships and trends between two variables over time, revealing patterns that may not be apparent in simpler charts. 
 
+## Tableau Visualization
+
+I utilized Tableau to create a visual representation of the data. 
+
+### Snapshot
+![Bar chart](Snapshot1.png)
 
 ## How to Use
 
